@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Ángel Sánchez Aguilar</h1>
 <h3 align="center">A passionate about physics and programming</h3>
 
-- 🌱 I’m currently learning **PostgreSQL**
-
 - 💬 Ask me about **Machine Learning and Python**
 
 - 📫 How to reach me **luislasabills@gmail.com**
